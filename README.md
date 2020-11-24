@@ -2,7 +2,7 @@
 **WomenWhoCode Hackathon Covid Detection and Antibiotic Resistance Prevention application.**<br>
 <br><b>The application can be found <a href="https://covid-wwc-hackathon.herokuapp.com/"> here</a></b>.<br>
 
-To run the application clone the repository and follow these steps :<br>
+To run the application clone the repository and follow these steps:<br>
 1. Clone the repository to your local machine.
 2. Create a new python virtual environment.<br>
 3. Got to the Deployment directory and open terminal.<br>
